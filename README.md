@@ -12,3 +12,4 @@ Your goal is to create a `styles.css` file and apply css to a new `layout-with-f
 4. Create a new file called `style.css`.
 5. Link your `style.css` within the `<head>` of your `layout-with-float.html` document.
 6. Style your html document appropriately!
+7. When you're finished add all changes, commit them, then push to your personal repository titled `<username>-float-example`.
