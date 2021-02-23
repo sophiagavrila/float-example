@@ -6,7 +6,7 @@ Your goal is to create a `styles.css` file and apply css to a new `layout-with-f
 <img src="SiteDesignGoal.png" height="700">
 
 ## Instructions
-1. Clone this repo onto your own machine.  Open the `Float-Example` folder in VS code.
+1. Clone this repo onto your own machine.  Open the `<username>-float-example` folder in VS code.
 2. Create a new file called `layout-with-float.html`.
 3. Copy all of the code from `layout-no-float.html` into `layout-with-float.html`.
 4. Create a new file called `style.css`.
